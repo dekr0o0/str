@@ -1,2 +1,2 @@
-a = ["Hello", "world", "this", "is", "a", "test"]
+a = ("Hello", "world", "this", "is", "a", "test")
 print("".join(a)) # Вывод: Helloworldthisisatest
